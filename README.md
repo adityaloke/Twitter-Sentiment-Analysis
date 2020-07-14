@@ -1,4 +1,4 @@
-# Twitrer-Sentiment-Analysis
+# Twitter-Sentiment-Analysis
 
 ##python dependencies-
 you can install following dependencies using `pip install <package-name>`
